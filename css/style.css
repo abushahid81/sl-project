@@ -1,0 +1,94 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+/* body{
+    background-image: url(/image/The\ Best\ Buzzwords\ For\ Your\ Resume.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.momo{
+    border-radius: 3px;
+
+    
+} */
+.moo{
+    color: #ff008c !important;
+}
+.boom{
+    background-color: #ff008c !important;
+}
+
+.cover-text{
+    padding-top: 150px;
+    
+}
+
+.button-change{
+    justify-content: end;
+    border-start-end-radius: 150px !important ;
+}
+
+.ab-re{
+    position: relative;
+}
+
+.two-img{
+    position: absolute;
+    margin-top: -50px;
+  margin-left: -50px;
+}
+
+.three-topic{
+    padding-top: 180px;
+}
+
+.three-one{
+    padding-top: 100px;
+}
+
+.three-two{
+    padding-left: 80px;
+}
+
+.three-three{
+    padding-left: 80px;
+    padding-top: 100px;
+}
+.booty{
+   direction: rtl;
+}
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+  }
+  
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #f3216b;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
